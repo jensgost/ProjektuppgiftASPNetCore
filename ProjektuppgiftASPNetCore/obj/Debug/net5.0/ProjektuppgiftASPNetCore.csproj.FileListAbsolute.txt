@@ -157,3 +157,4 @@ C:\Users\Jens\Documents\Programmering\GitHub\ProjektuppgiftASPNetCore\Projektupp
 C:\Users\Jens\Documents\Programmering\GitHub\ProjektuppgiftASPNetCore\ProjektuppgiftASPNetCore\obj\Debug\net5.0\ref\ProjektuppgiftASPNetCore.dll
 C:\Users\Jens\Documents\Programmering\GitHub\ProjektuppgiftASPNetCore\ProjektuppgiftASPNetCore\obj\Debug\net5.0\ProjektuppgiftASPNetCore.pdb
 C:\Users\Jens\Documents\Programmering\GitHub\ProjektuppgiftASPNetCore\ProjektuppgiftASPNetCore\obj\Debug\net5.0\ProjektuppgiftASPNetCore.genruntimeconfig.cache
+C:\Users\Jens\Documents\Programmering\GitHub\ProjektuppgiftASPNetCore\ProjektuppgiftASPNetCore\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
